@@ -9,6 +9,7 @@
       <li><a href="index.php">Home</a></li></li>
 	  	<li><a href="blog.php">Blog</a></li></li>
 	  	<li><a href="tutorials.php">Tutorials</a></li>
+	  	<li><a href="contact.php">Contact</a></li>
     </ul>
   </nav>  
 </aside>
